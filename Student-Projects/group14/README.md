@@ -1,7 +1,7 @@
 # 🤖 EmotionalAdvisorBot
 
 **📚 Course Project:** Artificial Intelligence  
-**👩‍🎓 Students (Group 14):** [Seyed Amirmahdi Aghili, Mahdi Zeinali, Student 3, Student 4, Student 5]  
+**👩‍🎓 Students (Group 14):** [Seyed Amirmahdi Aghili, Mahdi Zeinali,Nima sedighi, Student 4, Student 5]  
 **👩‍🏫 Instructor:** Dr. Maryam Haji Esmaeili  
 **🏫 University:** Tehran Markaz Islamic Azad University  
 **🤖 Bot Name:** EmotionalAdvisorBot
